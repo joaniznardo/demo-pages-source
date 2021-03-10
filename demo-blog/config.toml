@@ -1,3 +1,25 @@
-baseURL = "http://example.org/"
-languageCode = "en-us"
-title = "My New Hugo Site"
+baseURL = "https://joaniznardo.github.io/demo-pages"
+#baseURL = "demo-pages"
+#baseURL = "/demo-pages/"
+#languageCode = "en-us"
+#languageCode = "ca-ES"
+title = "hugo-docs"
+theme = "hugo-theme-learn"
+#[permalinks]
+#  "/" = "/demo-pages/"
+#[Languages]
+landingPageURL = "/demo-pages"
+landingPageName = "<i class='fas fa-home'></i> Home"
+[params]
+  author = "Joan Iznardo"
+  showVisitedLinks = true
+#  disableBreadcrumb = false
+  disableNextPrev = false
+  disableLandingPageButton = true
+  homepage =  "https://joaniznardo.github.io/demo-pages"
+#disableShortcutsTitle = true
+#landingPageURL = "https://joaniznardo.github.io/demo-pages"
+#landingPageName = "<i class='fas fa-home'></i> Home"
+# For search functionality
+[outputs]
+home = [ "HTML", "RSS", "JSON"]

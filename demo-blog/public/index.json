@@ -1,0 +1,36 @@
+[
+{
+	"uri": "https://joaniznardo.github.io/demo-pages/preparacio/",
+	"title": "Preparacio",
+	"tags": [],
+	"description": "",
+	"content": "Capítol 1 Creació dels repositoris La idea més senzilla és disposar d\u0026rsquo;un repositori pel codi font (les entrades en Markdown) i un altre pel codi objecte (html/css/javascript)\n"
+},
+{
+	"uri": "https://joaniznardo.github.io/demo-pages/",
+	"title": "demo-pages",
+	"tags": [],
+	"description": "",
+	"content": "Creant Documentació!! amb hugo "
+},
+{
+	"uri": "https://joaniznardo.github.io/demo-pages/preparacio/primera-entrada/",
+	"title": "Primera Entrada",
+	"tags": [],
+	"description": "",
+	"content": "Cal crear 2 repositoris a gitub:\n codi font per generar les entrades (demo-pages-src) codi objecte (final) que és el que llegirà el servidor web (apache, nginx o whatever)  "
+},
+{
+	"uri": "https://joaniznardo.github.io/demo-pages/categories/",
+	"title": "Categories",
+	"tags": [],
+	"description": "",
+	"content": ""
+},
+{
+	"uri": "https://joaniznardo.github.io/demo-pages/tags/",
+	"title": "Tags",
+	"tags": [],
+	"description": "",
+	"content": ""
+}]
